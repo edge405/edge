@@ -1,6 +1,8 @@
-<h1 align="center">Hello there!👋</h1>
-<p>I'm Edjay from Iloilo, Philippines. I don't have any specific talent, but I love figuring things out! I'm curious and really into solving problems. It's exciting for me to learn new ways to fix things or create my own methods to solve them
+<h1 align="center">Hey there!👋</h1>
+<p style="margin-top: 20; margin-bottom: 20;">
+    I'm Edjay from Iloilo, Philippines. I don't have any specific talent, but I love figuring things out! I'm curious and really into solving problems. It's exciting for me to learn new ways to fix things or create my own methods to solve them.
 </p>
+
 - 📫 How to reach me **ejlindayao@gmail.com**
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 

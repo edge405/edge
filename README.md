@@ -1,4 +1,4 @@
-<h1 align="center">Hey there<img src= "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"></h1>
+<h1 align="center">Hey there<img width="40" src= "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"></h1>
 <p></p>
 <p></p>
 <br>

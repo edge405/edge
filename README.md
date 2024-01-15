@@ -4,7 +4,7 @@
 <br>
 <p></p>
 <p style="margin-top: 20px; margin-bottom: 20px;">
-    I'm Edjay from Iloilo, Philippines. I don't have any talents but I'm curious about anything. I'm interested into solving problems and love creating methods to fix problems. It might not effecient methods but I learn from every mistakes I make that could lead me to create better algorithms in the near future. That's life: We FAIL, We LEARN, We SUCCEED.
+    I'm Edjay from Iloilo, Philippines. I don't have any talents but I'm curious. I'm interested into solving problems and love creating methods to fix problems. It might not effecient methods but I learn from every mistakes I make that could lead me to create better algorithms in the near future. That's life: We FAIL, We LEARN, We SUCCEED.
 </p>
 <p></p>
 <p></p>

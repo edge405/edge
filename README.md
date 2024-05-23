@@ -3,7 +3,7 @@
 <p></p>
 <br>
 <p></p>
-<p>
+<p align="center" style="margin-left: 50px; margin-right: 50px;>
     I'm Edjay from Iloilo, Philippines. I don't have any special talents, but I'm really curious about something I'm interested in.
 </p>
 <p></p>

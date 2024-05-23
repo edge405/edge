@@ -7,8 +7,19 @@
 <p></p>
 
 
-- 📫 How to reach me **ejlindayao@gmail.com**
+- 📫 How to reach me: **ejlindayao@gmail.com**
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<p></p>
+<p></p>
+<br>
+<p></p>
+<p>
+    I'm Edjay from Iloilo, Philippines. I don't have any special talents, but I'm really curious about something I'm interested in.
+</p>
+<p></p>
+<p></p>
+<br>
+<p></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

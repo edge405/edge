@@ -4,7 +4,7 @@
 <br>
 <p></p>
 <p align="center">
-    I'm Edjay from Iloilo, Philippines. I don't have any special talents or something impressive, I'm just really curious about something I'm interested in.
+    I'm Edjay Lindayao from Iloilo City, Philippines. I don't have any special talents or something impressive, I'm just really curious about something I'm interested in
 </p>
 <p></p>
 <p></p>

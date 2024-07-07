@@ -48,7 +48,7 @@
     </a> 
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
     </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="docker" width="40" height="40"/> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="docker" width="60" height="40"/> 
     </a>
 </p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edge405&layout=pie&theme=dark#gh-dark-mode-only">

@@ -26,7 +26,7 @@
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/8083855/44999455-72444280-afce-11e8-9f22-fdd7259c637b.png" alt="postman" width="40" height="40"/> 
     </a>
-    <a href="https://netbeans.apache.org/tutorial/main/kb/"  target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt ="netbeans" width= "35" height="35"/> 
+    <a href="https://netbeans.apache.org/tutorial/main/kb/"  target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt ="netbeans" width= "30" height="30"/> 
     </a>
     <a align="left"> <a href="https://developer.android.com/develop/ui/compose/documentation" target="_blank" rel="noreferrer"> <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="jetpack-compose" width="40" height="40"/> 
     </a>
